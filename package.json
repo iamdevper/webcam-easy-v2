@@ -1,0 +1,27 @@
+{
+  "name": "webcam-easy-v2",
+  "version": "1.0.6",
+  "description": "HTML5 webcam streaming javascript library, with front and back camera switch, also have take photo function.",
+  "main": "src/webcam-easy.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bensonruan/webcam-easy.git"
+  },
+  "homepage": "https://bensonruan.com/how-to-access-webcam-and-take-photo-with-javascript",
+  "keywords": [
+    "webcam",
+    "camera",
+    "getusermedia",
+    "streaming",
+    "frontcamera",
+    "backcamera"
+  ],
+  "author": "Benson Ruan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bensonruan/webcam-easy/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
